@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Al-aqari — Systems Analyst and Scrum Master</title>
+  <desc id="desc">AI-assisted software engineering. Analyze, build, verify, and document.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1425"/>
+      <stop offset="1" stop-color="#182b45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="268" rx="20" fill="url(#background)" stroke="#2b405a"/>
+  <rect x="36" y="36" width="4" height="197" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="68" y="58" fill="#7dd3fc" font-size="13" font-weight="600" letter-spacing="3">FROM BUSINESS NEEDS TO VERIFIED SOFTWARE</text>
+    <text x="65" y="112" fill="#f8fafc" font-size="44" font-weight="700">Mohammed Al-aqari</text>
+    <text x="68" y="147" fill="#cbd5e1" font-size="21">Systems Analyst &amp; Scrum Master</text>
+    <text x="68" y="176" fill="#94a3b8" font-size="16">AI-assisted development, testing, analysis, and documentation</text>
+    <g font-size="12" font-weight="700" letter-spacing="1.5">
+      <rect x="68" y="201" width="104" height="30" rx="8" fill="#12364d" stroke="#24566a"/>
+      <text x="120" y="221" text-anchor="middle" fill="#7dd3fc">ANALYZE</text>
+      <rect x="184" y="201" width="89" height="30" rx="8" fill="#213c3c" stroke="#365646"/>
+      <text x="228.5" y="221" text-anchor="middle" fill="#bef264">BUILD</text>
+      <rect x="285" y="201" width="91" height="30" rx="8" fill="#213c3c" stroke="#365646"/>
+      <text x="330.5" y="221" text-anchor="middle" fill="#bef264">VERIFY</text>
+      <rect x="388" y="201" width="126" height="30" rx="8" fill="#12364d" stroke="#24566a"/>
+      <text x="451" y="221" text-anchor="middle" fill="#7dd3fc">DOCUMENT</text>
+    </g>
+    <g transform="translate(926 58)">
+      <path d="M0 0H173V160H0Z" fill="none" stroke="#365371" stroke-width="1"/>
+      <path d="M29 42H144M29 80H144M29 118H144" stroke="#365371"/>
+      <path d="M48 32L35 42L48 52M125 32L138 42L125 52" fill="none" stroke="#7dd3fc" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M43 80H95M43 118H95" stroke="#7dd3fc" stroke-width="4" stroke-linecap="round"/>
+      <path d="M114 77L120 83L132 69M114 115L120 121L132 107" fill="none" stroke="#bef264" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="173" cy="0" r="5" fill="#7dd3fc"/>
+      <circle cx="0" cy="160" r="5" fill="#bef264"/>
+    </g>
+  </g>
+</svg>
