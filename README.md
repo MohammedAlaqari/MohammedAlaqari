@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Mohammed Al-aqari — Systems Analyst and Scrum Master. AI-assisted software engineering: analyze, build, verify, document." width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Mohammed Al-aqari — Systems Analyst and Scrum Master. AI-assisted software engineering: analyze, verify, document." width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-al-aqari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" /></a>
   <a href="#featured-project--sprintboard"><img src="https://img.shields.io/badge/Favorite_Project-SprintBoard-0F766E?style=flat-square" alt="Favorite project: SprintBoard" /></a>
-  <a href="#بالعربية"><img src="https://img.shields.io/badge/Read_in_Arabic-334155?style=flat-square" alt="Read in Arabic" /></a>
 </p>
 
 ## About me
@@ -70,7 +69,6 @@ It is where I bring my analysis and Scrum background into practical engineering:
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" width="48" height="48" /><br>Angular</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48" /><br>HTML5</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48" /><br>CSS3</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" /><br>Sass</td>
 </tr>
 </table>
 <table>
@@ -191,15 +189,6 @@ A unified app for everyday services, bringing shopping, food orders, bill paymen
 
 [Google Play](https://play.google.com/store/apps/details?id=com.superstore.basapp) · [App Store](https://apps.apple.com/us/app/bas-super-app/id6505009949) · [Website](https://basgate.com/)
 
-### Qitaf — قطاف
-
-Platform analysis and engineering documentation work covering requirements, user stories, API flows, support processes, and test scenarios. The related repository, `qitaf-platform-docu`, organizes the technical documentation.
-
-### Unions platform — منصة النقابات
-
-Part of my professional project experience in systems analysis and requirements engineering, connecting business needs with clear specifications and software delivery.
-
-My work across these projects combines systems analysis, requirements engineering, and Agile collaboration. They are team efforts; the descriptions summarize the products and project context.
 
 ## Selected repositories
 
@@ -210,12 +199,7 @@ These repositories are held under my account and are not GitHub forks. Their sou
 | **`sprint_borad`** | My main Agile work-management project, spanning a .NET/ABP backend, Angular web, and Flutter mobile clients. |
 | **`Financial-Assistant`** | A Flutter financial-assistant project designed around local storage, receipt OCR, transaction classification, and dashboards. |
 | **`farhati`** | A Flutter mobile application with a backend, booking-related workflows, and QA artifacts for reviewing user journeys. |
-| **`sprint-pro-platform`** | A TypeScript project-management prototype with client/server layers and a focus on Scrum, backlogs, OKRs, reporting, and permissions. |
-| **`vpx-docs`** | A bilingual documentation toolkit combining agent skills, reusable prompts, traceability, and executable documentation checks. |
-| **`qitaf-platform-docu`** | Requirements, API, infrastructure, and testing documentation supporting the Qitaf platform. |
-| **`FA_SUBFA_OPR`** | Feature documentation, technical analysis, testing guidance, and user-acceptance-test materials. |
-| **`Yeah-Money-proj`** | API documentation and technical analysis around PL/SQL-based application workflows. |
-| **`YeahMoney_with_Keycloak_IAM`** | Identity and access integration analysis, with Keycloak study materials, technical documentation, and database-schema references. |
+
 
 Across these projects, I use AI to move between understanding a system, making changes, investigating behavior, and maintaining useful engineering documentation.
 
@@ -259,7 +243,7 @@ I am interested in exchanging practical lessons about systems analysis, Agile to
 
 مشروعي المفضل هو **SprintBoard**: منصة لإدارة العمل الرشيق تجمع مساحات العمل والمشاريع والمهام والسبرنتات ولوحات Scrum وKanban، مع وحدات للأهداف والتقارير وتتبع الوقت وCRM، وواجهات Angular وFlutter فوق ‎.NET وABP Framework. وهو أحد أهم مشاريعي لتطبيق التحليل والتطوير والفحص بمساعدة الذكاء الاصطناعي.
 
-تشمل مشاريعي المهنية **ياه موني** للمدفوعات والتكاملات، و **منصة أنا للهوية الرقمية**، و **بس سوبر أب**، و **قطاف**، و **منصة النقابات**. وأعمل على ربط احتياجات الأعمال بالمتطلبات والتعاون مع الفرق في التسليم والتوثيق.
+تشمل مشاريعي المهنية **ياه موني** للمدفوعات والتكاملات، و **منصة أنا للهوية الرقمية**، و **بس سوبر أب** . وأعمل على ربط احتياجات الأعمال بالمتطلبات والتعاون مع الفرق في التسليم والتوثيق.
 
 تجد أعلاه روابط أنا وبس على Google Play وApp Store، ونبذات عن مجموعة من مستودعاتي غير المتفرعة، بما فيها مشاريع الموبايل وأدوات التوثيق الهندسي بالعربية والإنجليزية.
 
