@@ -17,16 +17,66 @@ My background connects systems analysis, requirements engineering, enterprise so
 | **Enterprise software** | C# and .NET applications, ABP Framework, Angular, APIs, and layered architecture. |
 | **AI-assisted engineering** | Using Codex and other AI coding tools for codebase analysis, development, debugging, testing, review, and documentation. |
 
-## Project work
+## Featured project — SprintBoard
 
-My main professional projects include **«أنا بلاتفورم»** and **«بس سوبر أب»**. These projects are not hosted on this GitHub profile. My professional focus combines systems analysis, requirements, and Agile delivery with practical use of AI throughout engineering work.
+**My favorite project: bringing Agile practice into a connected web and mobile workspace.**
 
-### Public code
+SprintBoard is a work-management platform built with **.NET 9, ABP Framework, Angular 19, and Flutter**. Its codebase brings together:
 
-**[EkycSystem](https://github.com/MohammedAlaqari/EkycSystem)**  
-A public C# project exploring electronic know-your-customer workflows. Its repository includes an ASP.NET application structure, data migrations, services, real-time hubs, and integration-test sources.
+- Workspaces, projects, backlogs, epics, work items, and Scrum/Kanban boards.
+- Sprint planning, sprint lifecycle management, releases, and time tracking.
+- OKRs, reporting, workflows, customization, and CRM modules.
+- Web and mobile interfaces, including the **SprintBoard Pulse** mobile experience.
 
-Other project work covers **Agile project management**, **bilingual engineering documentation**, and **mobile applications**. These areas bring together requirements, application structure, API integration, and quality review.
+It is where I bring my analysis and Scrum background into practical engineering: using AI to understand requirements, develop features, investigate defects, review changes, and improve documentation and verification.
+
+**Repository:** `sprint_borad` · Private source code
+
+## Professional projects
+
+### YeahMoney — ياه موني
+
+A payments-platform project connecting financial-service workflows with API analysis, integration documentation, and identity and access requirements. My related repositories include `Yeah-Money-proj` and `YeahMoney_with_Keycloak_IAM`, covering documentation and integration-analysis work.
+
+### ANA — Trusted Digital Identity Platform
+
+A digital identity and eKYC platform for identity verification and access to digital services. It connects identity and onboarding needs with a shared digital experience.
+
+[Google Play](https://play.google.com/store/apps/details?id=ana.app.ekyc) · [App Store](https://apps.apple.com/us/app/ana-platform/id1661473748)
+
+### Bas Superapp
+
+A unified app for everyday services, bringing shopping, food orders, bill payments, and other services into one experience.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.superstore.basapp) · [App Store](https://apps.apple.com/us/app/bas-super-app/id6505009949) · [Website](https://basgate.com/)
+
+### Qitaf — قطاف
+
+Platform analysis and engineering documentation work covering requirements, user stories, API flows, support processes, and test scenarios. The related repository, `qitaf-platform-docu`, organizes the technical documentation.
+
+### Unions platform — منصة النقابات
+
+Part of my professional project experience in systems analysis and requirements engineering, connecting business needs with clear specifications and software delivery.
+
+My work across these projects combines systems analysis, requirements engineering, and Agile collaboration. They are team efforts; the descriptions summarize the products and project context.
+
+## Selected repositories
+
+These repositories are held under my account and are not GitHub forks. Their source code remains private; the summaries below describe their scope.
+
+| Repository | What it covers |
+| --- | --- |
+| **`sprint_borad`** | My main Agile work-management project, spanning a .NET/ABP backend, Angular web, and Flutter mobile clients. |
+| **`Financial-Assistant`** | A Flutter financial-assistant project designed around local storage, receipt OCR, transaction classification, and dashboards. |
+| **`farhati`** | A Flutter mobile application with a backend, booking-related workflows, and QA artifacts for reviewing user journeys. |
+| **`sprint-pro-platform`** | A TypeScript project-management prototype with client/server layers and a focus on Scrum, backlogs, OKRs, reporting, and permissions. |
+| **`vpx-docs`** | A bilingual documentation toolkit combining agent skills, reusable prompts, traceability, and executable documentation checks. |
+| **`qitaf-platform-docu`** | Requirements, API, infrastructure, and testing documentation supporting the Qitaf platform. |
+| **`FA_SUBFA_OPR`** | Feature documentation, technical analysis, testing guidance, and user-acceptance-test materials. |
+| **`Yeah-Money-proj`** | API documentation and technical analysis around PL/SQL-based application workflows. |
+| **`YeahMoney_with_Keycloak_IAM`** | Identity and access integration analysis, with Keycloak study materials, technical documentation, and database-schema references. |
+
+Across these projects, I use AI to move between understanding a system, making changes, investigating behavior, and maintaining useful engineering documentation.
 
 ## Technologies in my project work
 
@@ -50,7 +100,11 @@ I am interested in exchanging practical lessons about systems analysis, Agile to
 
 أستخدم **الذكاء الاصطناعي وOpenAI Codex في التحليل والتطوير والفحص واكتشاف المشكلات ومراجعة الإصلاحات والتوثيق**. وأهتم ببناء Prompts وSkills قابلة لإعادة الاستخدام، وربط النتائج بأدلة واضحة وخطوات تحقق.
 
-من مشاريعي المهنية الأساسية: **«أنا بلاتفورم»**، و **«بس سوبر أب»**. وهما غير موجودين في حساب GitHub هذا. وتشمل بيئات عملي واهتماماتي التقنية ‎.NET وABP Framework وAngular، إلى جانب Flutter والتوثيق الهندسي بالعربية والإنجليزية.
+مشروعي المفضل هو **SprintBoard**: منصة لإدارة العمل الرشيق تجمع مساحات العمل والمشاريع والمهام والسبرنتات ولوحات Scrum وKanban، مع وحدات للأهداف والتقارير وتتبع الوقت وCRM، وواجهات Angular وFlutter فوق ‎.NET وABP Framework. وهو أحد أهم مشاريعي لتطبيق التحليل والتطوير والفحص بمساعدة الذكاء الاصطناعي.
+
+تشمل مشاريعي المهنية **ياه موني** للمدفوعات والتكاملات، و **منصة أنا للهوية الرقمية**، و **بس سوبر أب**، و **قطاف**، و **منصة النقابات**. وأعمل على ربط احتياجات الأعمال بالمتطلبات والتعاون مع الفرق في التسليم والتوثيق.
+
+تجد أعلاه روابط أنا وبس على Google Play وApp Store، ونبذات عن مجموعة من مستودعاتي غير المتفرعة، بما فيها مشاريع الموبايل وأدوات التوثيق الهندسي بالعربية والإنجليزية.
 
 يسعدني تبادل الخبرات حول تحليل الأنظمة وأدوات إدارة المشاريع وممارسات التوثيق والعمل الهندسي بمساعدة الذكاء الاصطناعي.
 
