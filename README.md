@@ -50,9 +50,6 @@ A unified app for everyday services, bringing shopping, food orders, bill paymen
 
 [Google Play](https://play.google.com/store/apps/details?id=com.superstore.basapp) · [App Store](https://apps.apple.com/us/app/bas-super-app/id6505009949) · [Website](https://basgate.com/)
 
-### Qitaf — قطاف
-
-Platform analysis and engineering documentation work covering requirements, user stories, API flows, support processes, and test scenarios. The related repository, `qitaf-platform-docu`, organizes the technical documentation.
 
 ### Unions platform — منصة النقابات
 
@@ -69,10 +66,6 @@ These repositories are held under my account and are not GitHub forks. Their sou
 | **`sprint_borad`** | My main Agile work-management project, spanning a .NET/ABP backend, Angular web, and Flutter mobile clients. |
 | **`Financial-Assistant`** | A Flutter financial-assistant project designed around local storage, receipt OCR, transaction classification, and dashboards. |
 | **`farhati`** | A Flutter mobile application with a backend, booking-related workflows, and QA artifacts for reviewing user journeys. |
-| **`sprint-pro-platform`** | A TypeScript project-management prototype with client/server layers and a focus on Scrum, backlogs, OKRs, reporting, and permissions. |
-| **`vpx-docs`** | A bilingual documentation toolkit combining agent skills, reusable prompts, traceability, and executable documentation checks. |
-| **`qitaf-platform-docu`** | Requirements, API, infrastructure, and testing documentation supporting the Qitaf platform. |
-| **`FA_SUBFA_OPR`** | Feature documentation, technical analysis, testing guidance, and user-acceptance-test materials. |
 | **`Yeah-Money-proj`** | API documentation and technical analysis around PL/SQL-based application workflows. |
 | **`YeahMoney_with_Keycloak_IAM`** | Identity and access integration analysis, with Keycloak study materials, technical documentation, and database-schema references. |
 
