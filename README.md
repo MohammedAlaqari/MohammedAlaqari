@@ -20,6 +20,8 @@ I use AI to **analyze systems, develop software, investigate issues, test change
 
 My background connects systems analysis, requirements engineering, enterprise software, and Agile delivery. Using tools such as **OpenAI Codex**, I work from business needs and existing codebases toward clear requirements, focused implementation, and reviewed results.
 
+Much of my project work focuses on **Software as a Service (SaaS)** and enterprise platforms. My experience spans **web, mobile, and desktop applications**, with database work using **Oracle, SQL Server, and PostgreSQL**, data modeling with **SAP PowerDesigner**, and data visualization with **Tableau**.
+
 I also work with **prompt engineering and locally hosted models**, exploring practical assistants and repeatable workflows for software analysis, development, testing, and documentation.
 
 ## What I focus on
@@ -28,7 +30,8 @@ I also work with **prompt engineering and locally hosted models**, exploring pra
 | --- | --- |
 | **Systems analysis** | Business workflows, requirements, user stories, acceptance criteria, and technical documentation. |
 | **Agile delivery** | Backlog clarity, sprint planning, work tracking, and connecting product needs with implementation. |
-| **Enterprise software** | C# and .NET applications, ABP Framework, Angular, APIs, and layered architecture. |
+| **SaaS & enterprise software** | Web, mobile, and desktop applications using C#/.NET, ABP Framework, Angular, Flutter, APIs, DDD, and Clean Architecture. |
+| **Data & modeling** | Oracle and PL/SQL, SQL Server, PostgreSQL, data modeling with SAP PowerDesigner, and visualization with Tableau. |
 | **AI-assisted engineering** | Using Codex and other AI coding tools for codebase analysis, development, debugging, testing, review, and documentation. |
 
 ## Featured project — SprintBoard
@@ -94,11 +97,26 @@ It is where I bring my analysis and Scrum background into practical engineering:
 </tr>
 </table>
 <table>
-<tr><th colspan="3">Databases</th></tr>
+<tr><th colspan="2">Desktop Applications</th></tr>
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET Desktop" width="48" height="48" /><br>.NET Desktop</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="48" height="48" /><br>Visual Basic</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="4">Databases</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle Database" width="48" height="48" /><br>Oracle</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" /><br>SQL Server</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48" /><br>PostgreSQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48" /><br>Redis</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="2">Data Modeling &amp; Business Intelligence</th></tr>
+<tr>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP PowerDesigner" width="48" height="48" /><br>SAP PowerDesigner</td>
+<td align="center" width="120"><img src="https://www.tableau.com/favicon.ico" alt="Tableau" width="48" height="48" /><br>Tableau</td>
 </tr>
 </table>
 <table>
@@ -142,7 +160,9 @@ It is where I bring my analysis and Scrum background into practical engineering:
 </table>
 </div>
 
-**Engineering practices:** Requirements engineering · Scrum · Domain-Driven Design (DDD) · Clean Architecture · Layered architecture · API analysis · Test design · Reusable prompts and agent skills · Arabic/English documentation
+**Application areas:** SaaS platforms · Enterprise systems · Web applications · Mobile applications · Desktop applications
+
+**Engineering practices:** Requirements engineering · Scrum · Domain-Driven Design (DDD) · Clean Architecture · Layered architecture · Data modeling · API analysis · Test design · Reusable prompts and agent skills · Arabic/English documentation
 
 ## Professional projects
 
@@ -223,6 +243,8 @@ I am interested in exchanging practical lessons about systems analysis, Agile to
 أستخدم **الذكاء الاصطناعي وOpenAI Codex في التحليل والتطوير والفحص واكتشاف المشكلات ومراجعة الإصلاحات والتوثيق**. وأهتم ببناء Prompts وSkills قابلة لإعادة الاستخدام، وربط النتائج بأدلة واضحة وخطوات تحقق.
 
 أعمل كذلك على **هندسة البرومبتات والنماذج المحلية**، وأستخدم أدوات مثل Cursor وKiro وVisual Studio وVS Code وPostman، مع ممارسات DDD وClean Architecture.
+
+أعمل في أغلب مشاريعي على **منصات SaaS والأنظمة المؤسسية**، وتشمل خبرتي تطبيقات **الويب والموبايل وسطح المكتب**، وقواعد بيانات **Oracle وSQL Server وPostgreSQL** وPL/SQL، مع **SAP PowerDesigner** لنمذجة البيانات و**Tableau** لتحليل البيانات وعرضها.
 
 مشروعي المفضل هو **SprintBoard**: منصة لإدارة العمل الرشيق تجمع مساحات العمل والمشاريع والمهام والسبرنتات ولوحات Scrum وKanban، مع وحدات للأهداف والتقارير وتتبع الوقت وCRM، وواجهات Angular وFlutter فوق ‎.NET وABP Framework. وهو أحد أهم مشاريعي لتطبيق التحليل والتطوير والفحص بمساعدة الذكاء الاصطناعي.
 
