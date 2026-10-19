@@ -22,7 +22,7 @@ My background connects systems analysis, requirements engineering, enterprise so
 
 Much of my project work focuses on **Software as a Service (SaaS)** and enterprise platforms. My experience spans **web, mobile, and desktop applications**, with database work using **Oracle, SQL Server, and PostgreSQL**, data modeling with **SAP PowerDesigner**, and data visualization with **Tableau**.
 
-I also work with **prompt engineering and locally hosted models**, exploring practical assistants and repeatable workflows for software analysis, development, testing, and documentation.
+I also work with **prompt engineering and locally hosted models using Ollama**, exploring practical assistants and repeatable workflows for software analysis, development, testing, and documentation. My workflow also includes **Toad for Oracle** for database work and **Zoho Sprints** for Agile work management.
 
 ## What I focus on
 
@@ -30,7 +30,7 @@ I also work with **prompt engineering and locally hosted models**, exploring pra
 | --- | --- |
 | **Systems analysis** | Business workflows, requirements, user stories, acceptance criteria, and technical documentation. |
 | **Agile delivery** | Backlog clarity, sprint planning, work tracking, and connecting product needs with implementation. |
-| **SaaS & enterprise software** | Web, mobile, and desktop applications using C#/.NET, ABP Framework, Angular, Flutter, APIs, DDD, and Clean Architecture. |
+| **SaaS & enterprise software** | ASP.NET Core web applications, mobile and desktop applications, C#/.NET, ABP Framework, Angular, Flutter, APIs, DDD, and Clean Architecture. |
 | **Data & modeling** | Oracle and PL/SQL, SQL Server, PostgreSQL, data modeling with SAP PowerDesigner, and visualization with Tableau. |
 | **AI-assisted engineering** | Using Codex and other AI coding tools for codebase analysis, development, debugging, testing, review, and documentation. |
 
@@ -74,8 +74,9 @@ It is where I bring my analysis and Scrum background into practical engineering:
 </tr>
 </table>
 <table>
-<tr><th colspan="2">Backend &amp; APIs</th></tr>
+<tr><th colspan="3">Web Applications, Backend &amp; APIs</th></tr>
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="ASP.NET Core Web Applications" width="48" height="48" /><br>ASP.NET Core<br>Web Apps</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48" /><br>Node.js</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST APIs" width="65" height="65" /><br>REST APIs</td>
 </tr>
@@ -138,6 +139,14 @@ It is where I bring my analysis and Scrum background into practical engineering:
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=md&theme=dark" alt="Markdown" width="48" height="48" /><br>Markdown</td>
 <td align="center" width="96"><img src="https://www.cursor.com/favicon.ico" alt="Cursor" width="48" height="48" /><br>Cursor</td>
 <td align="center" width="96"><img src="https://kiro.dev/favicon.ico" alt="Kiro" width="48" height="48" /><br>Kiro</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="3">Workflow Tools</th></tr>
+<tr>
+<td align="center" width="120"><a href="https://www.quest.com/products/toad-for-oracle/"><img src="https://www.quest.com/favicon.ico" alt="Toad for Oracle" width="48" height="48" /></a><br>Toad for Oracle</td>
+<td align="center" width="120"><a href="https://ollama.com/"><img src="https://ollama.com/public/ollama.png" alt="Ollama" width="48" height="48" /></a><br>Ollama</td>
+<td align="center" width="120"><a href="https://www.zoho.com/sprints/"><img src="https://www.zoho.com/favicon.ico" alt="Zoho Sprints" width="48" height="48" /></a><br>Zoho Sprints</td>
 </tr>
 </table>
 <table>
@@ -243,6 +252,8 @@ I am interested in exchanging practical lessons about systems analysis, Agile to
 أستخدم **الذكاء الاصطناعي وOpenAI Codex في التحليل والتطوير والفحص واكتشاف المشكلات ومراجعة الإصلاحات والتوثيق**. وأهتم ببناء Prompts وSkills قابلة لإعادة الاستخدام، وربط النتائج بأدلة واضحة وخطوات تحقق.
 
 أعمل كذلك على **هندسة البرومبتات والنماذج المحلية**، وأستخدم أدوات مثل Cursor وKiro وVisual Studio وVS Code وPostman، مع ممارسات DDD وClean Architecture.
+
+أستخدم **Ollama** لتشغيل النماذج محليًا، و**Toad for Oracle** للعمل على قواعد بيانات أوراكل، و**Zoho Sprints** لإدارة العمل الرشيق، وأعمل على تطوير **تطبيقات الويب باستخدام ASP.NET Core**.
 
 أعمل في أغلب مشاريعي على **منصات SaaS والأنظمة المؤسسية**، وتشمل خبرتي تطبيقات **الويب والموبايل وسطح المكتب**، وقواعد بيانات **Oracle وSQL Server وPostgreSQL** وPL/SQL، مع **SAP PowerDesigner** لنمذجة البيانات و**Tableau** لتحليل البيانات وعرضها.
 
