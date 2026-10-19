@@ -46,64 +46,101 @@ It is where I bring my analysis and Scrum background into practical engineering:
 
 **Repository:** `sprint_borad` · Private source code
 
-## Technology stack
+## Core Technology Stack
 
-### Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-B91C1C?style=for-the-badge)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge)
-
-### Enterprise backend and APIs
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
-![ABP Framework](https://img.shields.io/badge/ABP_Framework-DC2626?style=for-the-badge)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-0F766E?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=for-the-badge)
-
-### Web and mobile
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Data, identity, and real-time services
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-7C3AED?style=for-the-badge)
-![OpenIddict](https://img.shields.io/badge/OpenIddict-0F766E?style=for-the-badge)
-![Keycloak](https://img.shields.io/badge/Keycloak-334155?style=for-the-badge&logo=keycloak&logoColor=white)
-
-### AI and coding assistants
-
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge)
-![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge)
-![Local Models](https://img.shields.io/badge/Local_LLM_Workflows-334155?style=for-the-badge)
-
-### Developer tools and documentation
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-334155?style=for-the-badge&logo=markdown&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
+<div align="center">
+<table>
+<tr><th colspan="7">Languages</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /><br>C#</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /><br>TypeScript</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="48" height="48" /><br>Dart</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="48" height="48" /><br>SQL</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="PL/SQL" width="48" height="48" /><br>PL/SQL</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="48" height="48" /><br>Visual Basic</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="4">Frontend</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" width="48" height="48" /><br>Angular</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48" /><br>HTML5</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48" /><br>CSS3</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" /><br>Sass</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="2">Backend &amp; APIs</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST APIs" width="65" height="65" /><br>REST APIs</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="4">C# Ecosystem</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" width="48" height="48" /><br>.NET</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="ASP.NET Core" width="48" height="48" /><br>ASP.NET Core</td>
+<td align="center" width="96"><img src="https://abp.io/favicon.ico" alt="ABP Framework" width="48" height="48" /><br>ABP Framework</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="Entity Framework Core" width="48" height="48" /><br>EF Core</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="2">Mobile Development</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="48" height="48" /><br>Flutter</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="48" height="48" /><br>Dart</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="3">Databases</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" /><br>SQL Server</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48" /><br>PostgreSQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48" /><br>Redis</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="3">DevOps &amp; Source Hosting</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /><br>Docker</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker Desktop" width="48" height="48" /><br>Docker Desktop</td>
+<td align="center" width="96"><img src="https://gitea.com/assets/img/logo.svg" alt="Gitea" width="48" height="48" /><br>Gitea</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="8">Developer Tools</th></tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" height="48" /><br>Git</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>GitHub</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio" width="48" height="48" /><br>Visual Studio</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48" /><br>VS Code</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="48" height="48" /><br>Postman</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=md&theme=dark" alt="Markdown" width="48" height="48" /><br>Markdown</td>
+<td align="center" width="96"><img src="https://www.cursor.com/favicon.ico" alt="Cursor" width="48" height="48" /><br>Cursor</td>
+<td align="center" width="96"><img src="https://kiro.dev/favicon.ico" alt="Kiro" width="48" height="48" /><br>Kiro</td>
+</tr>
+</table>
+<table>
+<tr><th colspan="5">AI / LLM &amp; Engineering Ecosystem</th></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge" alt="OpenAI Codex" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge" alt="Prompt Engineering" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Local_LLM_Workflows-334155?style=for-the-badge" alt="Local Models" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Agent_Skills-7C3AED?style=for-the-badge" alt="Agent Skills" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid" /></td>
+</tr>
+</table>
+<table>
+<tr><th colspan="3">Identity &amp; Real-Time Services</th></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/SignalR-7C3AED?style=for-the-badge" alt="SignalR" /></td>
+<td align="center"><img src="https://img.shields.io/badge/OpenIddict-0F766E?style=for-the-badge" alt="OpenIddict" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Keycloak-334155?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" /></td>
+</tr>
+</table>
+</div>
 
 **Engineering practices:** Requirements engineering · Scrum · Domain-Driven Design (DDD) · Clean Architecture · Layered architecture · API analysis · Test design · Reusable prompts and agent skills · Arabic/English documentation
 
